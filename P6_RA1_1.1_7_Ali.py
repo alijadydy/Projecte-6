@@ -1,0 +1,5 @@
+a = float(input("Introdueix un número: "))
+b = float(input("Introdueix un altre número: "))
+print("Resta:", a - b)
+print("Multiplicació:", a * b)
+print("Divisió:", a / b)
